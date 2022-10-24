@@ -1,0 +1,2 @@
+Welcome to my project 2 ! I use for my database Firebase (an app support by google very easy to use). I don't know if you can see my database (normally everyone can write on the database, is not private). But if it's not possible I can produce a little video to show the application and the modification on the database. And if it's not clear I can explain every code line. Thank you for this semester ! 
+#FINISHED
