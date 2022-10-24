@@ -4,7 +4,7 @@ Store Web Page
 - npm i         to install node_modules
 - npm start
 
-Payement Page
+Payment Page
 - npm i         to install node_modules
 - cd serveur
 - node index.js    launch Stripe pay server
